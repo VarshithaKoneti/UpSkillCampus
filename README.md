@@ -12,7 +12,6 @@ User-friendly Interface: The project includes an intuitive user interface that a
 Installation
 To run the Crop Weed Prediction system locally, follow these steps:
 
-Clone the repository: git clone https://github.com/cropweed-prediction.git
 Install the required dependencies: pip install -r requirements.txt
 Download the pre-trained model weights and place them in the designated directory.
 
